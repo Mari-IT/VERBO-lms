@@ -1,0 +1,390 @@
+[
+  {
+    "courseId": "3a9f3d6c-c391-4b1c-9c3d-6c3f3d6c3f3d",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Jane Smith",
+    "title": "Mastering English Communication",
+    "description": "Boost your English communication skills with this interactive course.",
+    "category": "English Language Learning",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
+    "price": 2599,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "2f9d1e8b-5a3c-4b7f-9e6d-8c2a1f0b3d5e",
+        "sectionTitle": "Getting Started",
+        "sectionDescription": "Introduction to the course and essential tips for learning English.",
+        "chapters": [
+          {
+            "chapterId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+            "type": "Video",
+            "title": "Self Introduction Lesson",
+            "content": "https://youtu.be/8laYlyAFd0o?si=SDzZg27syzQ7KblH",
+            "video": "https://youtu.be/8laYlyAFd0o?si=SDzZg27syzQ7KblH",
+            "comments": [
+              {
+                "commentId": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+                "userId": "janifer.wilson@hotmail.com",
+                "text": "Great start! Looking forward to learning.",
+                "timestamp": "2024-03-10T09:15:00Z"
+              }
+            ]
+          },
+          {
+            "chapterId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+            "type": "Video",
+            "title": "How to start speaking English? Improvement in 30 days",
+            "content": "English is a global language that opens doors to new opportunities and connections worldwide. Whether for work, travel, or personal growth, learning to speak English fluently can significantly enhance your communication skills and broaden your horizons. However, many learners struggle with speaking due to a lack of confidence, limited vocabulary, or fear of making mistakes. Here are some effective strategies to help you start speaking English with ease and confidence.",
+            "video": "https://youtu.be/SoUZ3wovZAs?si=jmGAXO6HRgApKnBB",
+            "comments": []
+          },
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Quiz",
+            "title": "Introduction Quiz",
+            "content": "Speaking English clearly and confidently takes practice. This lesson is designed for A2 learners, which will help you to practice with me; reduce your accent and pronunciation problems quickly, and develop the confidence to speak in English!",
+            "video": "https://youtu.be/Juxpn7dy1iY?si=tdX-9cs_XWHvMe0y",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3g0e2f9c-6d4e-5a7f-8b9g-1h2i3j4k5l6m",
+        "sectionTitle": "Grammar Essentials",
+        "sectionDescription": "Understand the fundamentals of English grammar.",
+        "chapters": [
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Video",
+            "title": "Basic English Grammar",
+            "content": "https://youtu.be/6LFjVC3cHjI?si=uh_qUuOeQFVsihqE",
+            "video": "https://youtu.be/6LFjVC3cHjI?si=uh_qUuOeQFVsihqE",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Video",
+            "title": "Common Grammar Mistakes",
+            "content": "Learn how to avoid common grammar pitfalls, such as subject-verb agreement and misplaced modifiers. Understanding these mistakes will help you communicate more clearly and effectively. Additionally, mastering punctuation, correct word order, and the proper use of tenses will enhance both your written and spoken English. Practicing with real-life examples and exercises will reinforce your understanding and prevent common errors in everyday conversations and writing.",
+            "video": "https://youtu.be/soN1qPcSDVo?si=j5pfxlbsKt2-CBbq",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "Grammar Quiz",
+            "content": "In Today's Quiz, You have 36 questions to attempt. Note, that You have exactly 10 seconds to Answer Each Question. You may pause the video and write your answer in your notebook, if you need more time. Wish you the best of luck!",
+            "video": "https://youtu.be/Qw8DmCR7FAU?si=TCjXmHZgpO5nqAO2",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4h1f3g0d-7e5f-6b8g-9c0h-2i3j4k5l6m7n",
+        "sectionTitle": "Practical Speaking",
+        "sectionDescription": "Enhance your speaking skills through practice.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "Building Confidence in Speaking",
+            "content": "https://youtu.be/dctbI4EIsaQ?si=E2QvyQjajn5xhYcB",
+            "video": "https://youtu.be/dctbI4EIsaQ?si=E2QvyQjajn5xhYcB",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Video",
+            "title": "Common Speaking Phrases",
+            "content": "Discover useful phrases and expressions for everyday conversations. These phrases will help you navigate common social interactions, such as introducing yourself, asking for directions, ordering food, and making small talk. Learning these expressions will make your conversations more natural and confident. Practice using phrases like 'How’s it going?', 'Could you help me, please?', and 'That sounds great!' to improve fluency and build stronger communication skills in real-life situations.",
+            "video": "https://youtu.be/WQ4MaTlbg4o?si=LcEwU-Gggk-aZU1V",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Quiz",
+            "title": "Speaking Skills Quiz",
+            "content": "Improve your Speaking and Conversational skills. You need some time and notebook for it)",
+            "video": "https://youtu.be/aRBzYEn7dhM?si=YCNM0D8kbPjV29_4",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "8b4f7d9c-4b1c-4b1c-8b4f-7d9c8b4f7d9c",
+    "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
+    "teacherName": "Anna Kowalska",
+    "title": "Mastering Polish Language",
+    "description": "Unlock your potential with this comprehensive Polish language course.",
+    "category": "Polish Language Learning",
+    "image": "https://images.pexels.com/photos/5611/sky-blue-flag-poland.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 1999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }
+    ],
+    "sections": [
+      {
+        "sectionId": "1a7b3c5d-9e2f-4g6h-8i0j-2k4l6m8n0p1q",
+        "sectionTitle": "Polish Basics",
+        "sectionDescription": "Learn fundamental Polish phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "10 basic Polish phrases for absolute beginners",
+            "content": "In this first lesson on Polish for beginners, you will learn 10 basic words and phrases. Congratulations on starting this learning journey!",
+            "video": "https://youtu.be/Z9hhNKrfRlc?si=LUO0_b7mcQcM7H2i",
+            "comments": []
+          },
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8m9",
+            "type": "Quiz",
+            "title": "Questions and answers in Polish",
+            "content": "Learn and write down some basic polish words.",
+            "video": "https://youtu.be/j3OxCsvAOEk?si=gSiYZtn9imWcE28A",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Video",
+            "title": "Polish Alphabet and Pronunciation",
+            "content": "Polish has 32 letters, and its pronunciation can differ significantly from English, but you will succed with some practise.",
+            "video": "https://youtu.be/EjxDh9BIX2M?si=VHcD7ByWWP_pVMy8",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "2b8c4d6e-0f3g-5h7i-9j1k-3l5m7n9p1q3r",
+        "sectionTitle": "Everyday Conversations",
+        "sectionDescription": "Practice essential Polish phrases for daily use.",
+        "chapters": [
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Video",
+            "title": "Travelling Polish Phrases",
+            "content": "Are you going to travel to Poland anytime soon? This lesson is just for you! We'll learn phrases which will be super useful for you when travelling to Poland.",
+            "video": "https://youtu.be/S1CgodBFJXs?si=rHTsgNCAcGPC6Mt6",
+            "comments": []
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "Polish Greetings and Introductions",
+            "content": "Learn how to greet someone, introduce yourself, and exchange pleasantries in Polish.",
+            "video": "https://youtu.be/AYWYutj9NrY?si=AZ9KfuQBB800vQm_",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Conversational Polish Quiz",
+            "content": "Quiz | 60 Polish Words You'll Use Every Day",
+            "video": "https://youtu.be/UCfTTRHm6i0?si=0ndc7wO5eZX0LEML",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3c9d5e7f-1g4h-6i8j-0k2l-4m6n8p0q2r4s",
+        "sectionTitle": "Polish Grammar Essentials",
+        "sectionDescription": "Master key grammar concepts for Polish communication.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Basic Polish Grammar",
+            "content": "Cases in Polish grammar can give students a headache, so in this video we are going through them one by one. This video is an introduction to Polish cases. You can understand what they are and when you use them.",
+            "video": "https://youtu.be/8EYQ-ozPRUE?si=I_zKJpcCOf6_DDFG",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Video",
+            "title": "ACCUSATIVE case in Polish",
+            "content": "This lesson is about the  accusative case in Polish for nouns. You will find an explanation and many examples of when and how to use masculine, feminine and neuter nouns in the accusative case in Polish, both for singular and plural nouns.",
+            "video": "https://youtu.be/GzzHMT-ra3U?si=vxlJtxNlEM80SQO1",
+            "comments": []
+          },
+          {
+            "chapterId": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+            "type": "Quiz",
+            "title": "Polish Grammar Quiz",
+            "content": "1. What is the instrumental case used for?\n2. How do you conjugate the verb 'to be' in Polish?",
+            "video": "https://youtu.be/p_u_t2f1UDY?si=0xky9ygu5pOck-jD",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "c5d6e7f8-g9h0-i1j2-k3l4-m5n6o7p8q9r0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Hanna Muller",
+    "title": "Mastering German Language",
+    "description": "Learn to speak, read, and write in German with this comprehensive course.",
+    "category": "German Language Learning",
+    "image": "https://images.pexels.com/photos/1128416/pexels-photo-1128416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 2299,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
+        "sectionTitle": "German Basics",
+        "sectionDescription": "Learn essential German phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Video",
+            "title": "Introduction to German",
+            "content": "https://youtu.be/xg60VxyK-9I?si=31JzADv20OUcIab1",
+            "video": "https://youtu.be/xg60VxyK-9I?si=31JzADv20OUcIab1",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "German Basics Quiz",
+            "content": "1. How do you say 'hello' in German?\n2. What is the German word for 'thank you'?",
+            "video": "https://youtu.be/-3TFXzLlJ38?si=FWE02V1lj77oHdOm",
+            "comments": []
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "German Alphabet and Pronunciation",
+            "content": "Learn the 26 letters of the German alphabet and how to pronounce them. Good luck)",
+            "video": "https://youtu.be/s-e4cXgmEy4?si=w53ecV2a_zSu_Jjl",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
+        "sectionTitle": "Everyday German",
+        "sectionDescription": "Master key phrases for daily interactions.",
+        "chapters": [
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Video",
+            "title": "Common German Phrases",
+            "content": "40 MOST COMMON PHRASES IN GERMAN LANGUAGE.",
+            "video": "https://youtu.be/hI7Ay8iR2Q8?si=n44IVZB9Xrn__Wl2",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Greetings and Introductions",
+            "content": "Learn to greet someone, introduce yourself, and ask basic questions in German.",
+            "video": "https://youtu.be/aZJhkghsWGM?si=o4r_5AJOUj-TSinl",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Quiz",
+            "title": "German Greetings Quiz",
+            "content": "Translate into German. You can pauze video if you need.",
+            "video": "https://youtu.be/nf1rzqG3nvA?si=qY-TgQVLh2se1QCC",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+    "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
+    "teacherName": "Carlos Rodríguez",
+    "title": "Spanish for Beginners",
+    "description": "Learn to speak, read, and write in Spanish with this engaging course.",
+    "category": "Spanish Language Learning",
+    "image": "https://images.pexels.com/photos/54097/spain-flag-flutter-spanish-54097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 1899,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "4u6v8w0x-2y4z-6a8b-0c2d-4e6f8g0h2i4j",
+        "sectionTitle": "Introduction to Spanish",
+        "sectionDescription": "Learn basic Spanish phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "Spanish. Reasons to learn.",
+            "content": "Why learn Spanish? And Reasons to learn Spanish",
+            "video": "https://youtu.be/Q3xvmc1gVVE?si=vOP6TCGqfMV3S85E",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Spanish Basics Quiz",
+            "content": "These easy Spanish phrases are good for friendships, relationships, dating, or just meeting a stranger in a Spanish-speaking country.  Watching and listening to native Spanish speakers is the fastest way to learn Spanish, so start with this Spanish Conversation for Beginners lesson.",
+            "video": "https://youtu.be/DAp_v7EH9AA?si=0li72zwDXHb_WgEP",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Sophie Dubois",
+    "title": "Advanced French: Mastering Fluency",
+    "description": "Refine your French language skills with advanced grammar, idiomatic expressions, and cultural insights.",
+    "category": "French Language Learning",
+    "image": "https://images.pexels.com/photos/29945012/pexels-photo-29945012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 2199,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [{ "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }],
+    "sections": [
+      {
+        "sectionId": "5k7l9m1n-3o5p-7q9r-1s3t-5u7v9w1x3y5z",
+        "sectionTitle": "Advanced Grammar and Syntax",
+        "sectionDescription": "Master complex grammatical structures and sentence formations.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Mastering Subjunctive Mood",
+            "content": "https://youtu.be/QvlGkutnVXE?si=zCCPlGZAdYU7P6oC",
+            "video": "https://youtu.be/QvlGkutnVXE?si=zCCPlGZAdYU7P6oC",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Video",
+            "title": "FRENCH REFLEXIVE VERBS",
+            "content": "Learn how to use French reflexive verbs.",
+            "video": "https://www.youtube.com/live/YhXYEEDFCsg?si=2zdCQOpBHnbQiIAB",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+]
