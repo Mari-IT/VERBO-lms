@@ -165,9 +165,9 @@ const Course = () => {
               </div>
               <div className="course__instructor-bio">
                 <p>
-                  A seasoned Senior UX Designer with over 15 years of experience
-                  in creating intuitive and engaging digital experiences.
-                  Expertise in leading UX design projects.
+                  An experienced language educator with over 15 years of expertise in teaching and curriculum development. 
+                  Skilled in creating engaging and effective language learning experiences, 
+                  fostering communication skills, and implementing innovative teaching methodologies.
                 </p>
               </div>
             </CardContent>
