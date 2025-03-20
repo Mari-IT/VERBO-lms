@@ -160,12 +160,12 @@ const Course = () => {
                   <h4 className="course__instructor-name">
                     {course.teacherName}
                   </h4>
-                  <p className="course__instructor-title">Senior UX Designer</p>
+                  <p className="course__instructor-title">Lector</p>
                 </div>
               </div>
               <div className="course__instructor-bio">
                 <p>
-                  An experienced language educator with over 15 years of expertise in teaching and curriculum development. 
+                  An experienced language educator with over 5 years of expertise in teaching and curriculum development. 
                   Skilled in creating engaging and effective language learning experiences, 
                   fostering communication skills, and implementing innovative teaching methodologies.
                 </p>
